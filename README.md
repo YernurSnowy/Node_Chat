@@ -14,7 +14,7 @@ npm install -D nodemon
 
 ## Installation and Launch
 1. Download files from the repository
-2. In the terminal, write the lines indicated above in the Usage block
+2. In the terminal, write the lines indicated above in the **Usage** block
 3. In the `package.json` file, replace the script written on line 7 with the following lines:
    ```
     start": "node server.js",
